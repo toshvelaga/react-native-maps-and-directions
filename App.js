@@ -6,6 +6,9 @@ import Items from "./components/Items";
 import axios from "axios";
 import Maps from "./components/Maps";
 
+// I commented out code that adds an alphabetical letter to the markers on the map
+// Did this due to a performance bug. See README.md for more info
+
 const GEOCODE_API_KEY = ""; // add your geocode API KEY HERE //
 
 const App = () => {
@@ -91,6 +94,8 @@ const App = () => {
       />
 
       <PrimaryButton onPress={addToTasks} title="Submit" />
+
+      {/* use long press to move the pickup and dropoff items in flatlist */}
       <View style={styles.bottomViewContainer}>
         <Items onDragEnd={({ data }) => setTasks(data)} data={tasks} />
       </View>
