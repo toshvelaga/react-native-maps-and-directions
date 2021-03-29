@@ -12,12 +12,12 @@ React Native mobile app built using Expo. Tested on ios simulator. Please run on
 
 <span style="display:block" class="note">
 
-  <img src="https://voiceblasts1.s3.amazonaws.com/Simulator+Screen+Shot+-+iPhone+12+Pro+Max+-+2021-03-29+at+08.36.30.png">
-  <img src="https://voiceblasts1.s3.amazonaws.com/Simulator+Screen+Shot+-+iPhone+12+Pro+Max+-+2021-03-29+at+08.37.07.png">
+  <img src="https://voiceblasts1.s3.amazonaws.com/Simulator+Screen+Shot+-+iPhone+12+Pro+Max+-+2021-03-29+at+08.36.30.png" height="300px">
+  <img src="https://voiceblasts1.s3.amazonaws.com/Simulator+Screen+Shot+-+iPhone+12+Pro+Max+-+2021-03-29+at+08.37.07.png" height="300px">
 
 </span>
 
-[link to recording of resorting tasks](https://voiceblasts1.s3.amazonaws.com/Simulator+Screen+Recording+-+iPhone+12+Pro+Max+-+2021-03-29+at+08.57.38.mp4)
+[link to recording of resorting tasks!](https://voiceblasts1.s3.amazonaws.com/Simulator+Screen+Recording+-+iPhone+12+Pro+Max+-+2021-03-29+at+08.57.38.mp4)
 
 ## Run Locally
 
